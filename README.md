@@ -96,3 +96,47 @@ Capitulo 5
 Capitulo 6
 
 
+![image](https://user-images.githubusercontent.com/85178869/122018097-28483800-cd88-11eb-8576-fe7db73e4da1.png)
+
+![image](https://user-images.githubusercontent.com/85178869/122018189-3d24cb80-cd88-11eb-9140-897566692ade.png)
+
+![image](https://user-images.githubusercontent.com/85178869/122018257-4d3cab00-cd88-11eb-9ac5-2eeff03401d6.png)
+
+![image](https://user-images.githubusercontent.com/85178869/122018320-5cbbf400-cd88-11eb-8851-f2e1b84fded3.png)
+
+![image](https://user-images.githubusercontent.com/85178869/122018401-70675a80-cd88-11eb-966d-c6b9dd486c12.png)
+
+![image](https://user-images.githubusercontent.com/85178869/122018467-81b06700-cd88-11eb-88e9-4d046b68ed68.png)
+
+![image](https://user-images.githubusercontent.com/85178869/122018545-942aa080-cd88-11eb-89dc-ff79c39ac73b.png)
+
+![image](https://user-images.githubusercontent.com/85178869/122018767-c805c600-cd88-11eb-9d98-611651c7fb35.png)
+
+![image](https://user-images.githubusercontent.com/85178869/122018835-d8b63c00-cd88-11eb-9c1e-c4a28c0b8be7.png)
+
+![image](https://user-images.githubusercontent.com/85178869/122018914-e966b200-cd88-11eb-9b40-234b9d5d47ca.png)
+
+![image](https://user-images.githubusercontent.com/85178869/122019016-fdaaaf00-cd88-11eb-846e-390c936c823b.png)
+
+# 4. Video 
+
+https://youtu.be/joEa7zzMlXQ
+
+# 5 Concluciones 
+
+
+
+# 6. Bibliografia 
+
+"Circuito en Serie". Autor: María Estela Raffino. De: Argentina. Para: Concepto.de. Disponible en: Fuente: https://concepto.de/circuito-en-serie/#ixzz6xq9JJUMbÚltima edición: 9 de julio de 2020. Consultado: 15 de junio de 2021.
+
+"Circuito en Paralelo". Autor: María Estela Raffino. De: Argentina. Para: Concepto.de. Disponible en: Fuente: https://concepto.de/circuito-en-paralelo/#ixzz6xqNIrKmy . Última edición: 9 de julio de 2020. Consultado: 15 de junio de 2021
+
+https://es.slideshare.net/guest9bfd1f/circuitos-electricos
+
+https://es.wikipedia.org/wiki/Circuito_en_serie
+
+https://es.wikipedia.org/wiki/Circuito_en_paralelo
+
+
+
