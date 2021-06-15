@@ -47,3 +47,52 @@ Capitulo 6
 Capitulo 5
 
 
+![image](https://user-images.githubusercontent.com/85178869/122016358-9ab81880-cd86-11eb-9aec-f1adfe428925.png)
+
+![image](https://user-images.githubusercontent.com/85178869/122016420-a86d9e00-cd86-11eb-9ee8-2d6e3166ba73.png)
+
+![image](https://user-images.githubusercontent.com/85178869/122016476-b4f1f680-cd86-11eb-81ac-fc5cc40fc039.png)
+
+![image](https://user-images.githubusercontent.com/85178869/122016527-c1764f00-cd86-11eb-88f6-2cd0bd311470.png)
+
+![image](https://user-images.githubusercontent.com/85178869/122016594-cdfaa780-cd86-11eb-8095-11ddab5a026d.png)
+
+![image](https://user-images.githubusercontent.com/85178869/122016668-de128700-cd86-11eb-9bdd-78fdf752c43e.png)
+
+![image](https://user-images.githubusercontent.com/85178869/122016730-ebc80c80-cd86-11eb-8f13-5edfdd099e28.png)
+
+![image](https://user-images.githubusercontent.com/85178869/122016805-fbdfec00-cd86-11eb-9fb7-1a517631e3f9.png)
+
+![image](https://user-images.githubusercontent.com/85178869/122016851-09957180-cd87-11eb-8140-eed061177789.png)
+
+![image](https://user-images.githubusercontent.com/85178869/122016918-1ca84180-cd87-11eb-9876-9ad5e3294d2f.png)
+
+![image](https://user-images.githubusercontent.com/85178869/122016980-2cc02100-cd87-11eb-99ae-ce199b57c635.png)
+
+![image](https://user-images.githubusercontent.com/85178869/122017028-38abe300-cd87-11eb-886b-447a011741c6.png)
+
+![image](https://user-images.githubusercontent.com/85178869/122017097-48c3c280-cd87-11eb-9e20-b74b17033d43.png)
+
+![image](https://user-images.githubusercontent.com/85178869/122017184-5aa56580-cd87-11eb-9511-2fcf3bc8b2a5.png)
+
+![image](https://user-images.githubusercontent.com/85178869/122017241-67c25480-cd87-11eb-8999-c02840d6d96e.png)
+
+![image](https://user-images.githubusercontent.com/85178869/122017292-76107080-cd87-11eb-9ce5-77c2958c669a.png)
+
+![image](https://user-images.githubusercontent.com/85178869/122017373-86c0e680-cd87-11eb-864c-93b174440805.png)
+
+![image](https://user-images.githubusercontent.com/85178869/122017462-97715c80-cd87-11eb-9969-6b2c2ed4defb.png)
+
+![image](https://user-images.githubusercontent.com/85178869/122017515-a7893c00-cd87-11eb-8d18-9c75f24714db.png)
+
+![image](https://user-images.githubusercontent.com/85178869/122017572-ba037580-cd87-11eb-9df2-7790900e9e2a.png)
+
+![image](https://user-images.githubusercontent.com/85178869/122017645-c7206480-cd87-11eb-9a7f-2a2464f1284e.png)
+
+![image](https://user-images.githubusercontent.com/85178869/122017712-d56e8080-cd87-11eb-9f48-044b73df9ed2.png)
+
+![image](https://user-images.githubusercontent.com/85178869/122017766-e0c1ac00-cd87-11eb-9f3e-3f7dea36733b.png)
+
+Capitulo 6
+
+
