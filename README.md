@@ -36,4 +36,14 @@ A continuación, vamos a definir los objetivos planteados en el informe, de acue
 
 Capitulo 5 
 
+![image](https://user-images.githubusercontent.com/85178869/122015201-80ca0600-cd85-11eb-97df-90822bae9630.png)
+
+Capitulo 6
+
+![image](https://user-images.githubusercontent.com/85178869/122015678-ecac6e80-cd85-11eb-9588-b34b62af18e4.png)
+
+# 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
+Capitulo 5
+
 
