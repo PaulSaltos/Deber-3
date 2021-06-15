@@ -124,7 +124,13 @@ https://youtu.be/joEa7zzMlXQ
 
 # 5 Concluciones 
 
+•El circuito eléctrico en serie se denota por mantener su intensidad de corriente constante, también por su variación de voltaje y finalmente las resistencias totales siempre serán las mismas que las resistencias que compone el circuito.
 
+•El circuito eléctrico en paralelo se denota por mantener el voltaje constante, también por la variación de su intensidad de corriente y finalmente porque sus resistencias totales siempre van hacer menor que las resistencias que componen el circuito. 
+
+•La importancia de los circuitos eléctricos es tal que en cualquier instalación por sencilla o compleja que sea los tendremos y son la base de toda instalación eléctrica ya sea domestica o industrial
+
+•Un circuito eléctrico es un medio para poder hacer que exista una circulación de electrones y que estos me desarrollen un trabajo.
 
 # 6. Bibliografia 
 
